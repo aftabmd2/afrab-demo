@@ -1,4 +1,4 @@
-# afrab-demo
+# aftab-demo
 This is my first Git Repositroy.
 <br>
 Author-Aftab Alam
